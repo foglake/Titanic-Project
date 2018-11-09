@@ -1,6 +1,6 @@
-Authors: Christopher Williams
-         Ishani Patel
-         Samantha Wigley
+Authors: Christopher Williams,
+         Ishani Patel,
+         Samantha Wigley,
          Valon Sela 
 
 Titanic Project for the Marywood University Class of 2019 Final Project
